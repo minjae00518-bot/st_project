@@ -16,8 +16,8 @@
 - 20811 빈센트: 나는 ...나는 인구 증가와 평균 사이에 작은 성공 관계가 있는지 데이터를 분석해 보고 뽑았습니다.
 
 ## 데이터
-- 출처(주소):https://air.gyeongnam.go.kr/air/quality/item/list.do(온도)
-https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1399(이산화탄소)
+- 출처(주소):https://air.gyeongnam.go.kr/air/quality/item/list.do (온도)
+https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1399 (이산화탄소)
 - 기간·행 수·열 수:
 - 사용한 열:
 - 개인 단위 정보 없음 확인: 예 / 아니요
